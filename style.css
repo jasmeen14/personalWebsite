@@ -43,8 +43,18 @@
     font-size: 20px;
     border-radius: 10px;
     border: 5px solid yellowgreen;
-    
+    }
+  .div-4{
+     
+      padding: 30px;
+      border-radius: 10px;
+      border: 5px solid yellowgreen;
+      color: yellowgreen;
+      font-family: "monospace" lucida console;
+      font-size: 20px;
+      line-height: 1.6;
+ 
+    }
 
-  }
-  
+
       
