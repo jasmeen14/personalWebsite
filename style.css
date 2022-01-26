@@ -1,10 +1,10 @@
 
-    body{
+    .div-1{
         background-color:rgba(46, 43, 43, 0.973);
   }
   ul{
       list-style-type: none;
-      padding: 160px;
+      padding: 100px;
       font-size: 20px;
       margin-bottom: 0%;
       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
@@ -14,35 +14,37 @@
       float: left;
   }
   li a{
-      color: #f7484E;
+      color: yellowgreen;
       text-align: center;
       text-decoration: none;
       display: block;
       padding: 16px;
   }
+  .div-2{
+      color: yellowgreen;
+    text-align: left;
+     padding: 40px;
+      margin: 50px;
+      font-family: "monospace" lucida console;
+      font-size: 20px;
+      line-height: 1.6;
+      border-radius: 10px;
+      border: 5px solid yellowgreen;
+  }
+  .div-3{
+      
+      margin: 50px;
+      padding: 30px;
+    color: yellowgreen;
+    font-family: "monospace" lucida console;
+    text-align: center;
+    line-height: 1.6;
+    border-radius: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 5px solid yellowgreen;
+    
 
-*{
-    padding: 0;
-    margin: 0;
-}
-.div-1{
-    height: 100vh;
-    background:linear-gradient(to right,#F7484E 0%,#F7484E 50%,white 50%,white 100%);
- }
- p{
-     color: white;
-     font-family: "cursive",lucida handwriting;
-     text-align: left;
-     padding: 200px;
-     font-size: 60px;
- }
-.div-2{
-    p{
-     color: black;
-     margin: 10px;
-     padding: 20px;
-     text-align :left;
-
- }
-}
- 
+  }
+  
+      
