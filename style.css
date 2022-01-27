@@ -53,9 +53,23 @@
       font-family: "monospace" lucida console;
       font-size: 20px;
       line-height: 1.6;
-     
- 
-    }
-
+     }
+     h2.div-5{
+         text-align: center;
+     }
+     p.div-5{
+         text-align: left;
+         font-size: 20px;
+     }
+     .div-5{
+        margin: 50px;
+        padding: 30px;
+        border-radius: 10px;
+        border: 5px solid yellowgreen;
+        color: yellowgreen;
+        font-family: "monospace" lucida console;
+        font-size: 20px;
+       
+       }
 
       
